@@ -2,7 +2,7 @@
 
 The simplest device we can use to extend the geographical range of a network is a _repeater_. One of the limiting factors on network segment length is that pulses become rounded and distorted as they propagate down a line. They also diminish in magnitude, becoming indistinguishable from noise. Since the earliest days of computing, we have had devices which took degraded signals in and regenerated them. These are layer 1 devices, they deal with physical bits, ones and zeros.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In early Ethernet networks, we extended the range of the network by joining multiple segments in this way. In 1996, Letterkenny campus' computer network consisted of four segments with a repeater between each. 800m of 10BASE2 network!
 
