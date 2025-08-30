@@ -1,3 +1,7 @@
+---
+description: Spanning tree protocol and its successors
+---
+
 # Loop Avoidance
 
 Ethernet was designed as a simple layer 2 protocol and the designers never really considered that loops might be possible on a network. This is reasonable when you consider that Ethernet networks were originally single lengths of COAX.
