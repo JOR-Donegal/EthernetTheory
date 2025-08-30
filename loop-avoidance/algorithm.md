@@ -10,7 +10,7 @@ We will need to intervene on a real network. The algorithm picks the switch with
 
 We will always select a central core switch to be root and this will be demonstrated in practical sessions.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Each switch identifies the port which has the lowest cost to get to the root. This will be the root port of that switch (RP).
 

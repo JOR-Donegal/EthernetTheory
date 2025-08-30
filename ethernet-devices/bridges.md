@@ -2,7 +2,7 @@
 
 To fix the performance problems, we needed a device which would reduce the traffic on any network segment to only that traffic appropriate to that segment.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 A bridge examines all the frames which propagate on a segment. It looks at the source MAC address in each frame and identifies which nodes are on which side of the bridge. It then records these in a MAC address table.
 

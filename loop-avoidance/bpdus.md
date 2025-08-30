@@ -8,7 +8,7 @@ Several types of BPDU exist to transfer information through a bridged network. I
 
 ### Configuration BPDUs
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 This PDU holds the following fields of data.
 

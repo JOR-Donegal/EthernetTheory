@@ -4,7 +4,7 @@ Early Ethernet networks were small, with tens of devices per network, I worked o
 
 Layer 1 (the physical link) was a single cable interconnecting all the devices on the network. If a device wanted to transmit, it had to do so when the network was free and not in use by any other node.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To detect if the bus was free, each device listens for traffic and only attempts to transmit if no other node is doing so. If the network is free, the node which wants to transmit sends out a jamming signal or preamble, so every other node knows that it needs to use the bus.
 

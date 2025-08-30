@@ -4,7 +4,7 @@ Ethernet was designed to be the simplest protocol possible for a LAN. At layer t
 
 To allow a frame to be announced, there is a _preamble_ of eight bytes. The rest of the frame is made up of a destination address, a source address and the data we need to send. There can also be additional fields which give data about the frame such as type or length. Finally, there is a _frame check sequence_ (FCS) which allows the receiver to check for any errors. &#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Every Ethernet card in the world has a unique address called a Media Access Control or MAC Address. This is forty-eight bits long or six bytes.
 
