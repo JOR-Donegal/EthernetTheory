@@ -39,6 +39,7 @@
   * [CDP](network-discovery/cdp.md)
   * [LLDP](network-discovery/lldp.md)
   * [VMWare](network-discovery/vmware.md)
+  * [Linux](network-discovery/linux.md)
 * [Wi-Fi](wi-fi.md)
 * [Services](services.md)
 * [Real Network Topologies](real-network-topologies.md)
