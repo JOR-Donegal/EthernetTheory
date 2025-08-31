@@ -52,5 +52,3 @@
     * [Beacons](wi-fi/identifying-nodes/beacons.md)
     * [Sniffing the network](wi-fi/identifying-nodes/sniffing-the-network.md)
   * [Enterprise Network Design](wi-fi/enterprise-network-design.md)
-* [Services](services.md)
-* [Real Network Topologies](real-network-topologies.md)
