@@ -2,7 +2,7 @@
 
 The next evolution in LAN design was to combine the wiring convenience of a hub with the scalability of a bridge and create a device called a network switch. A switch is a multi-port bridge which maintains a MAC address table with entries for every port.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The wiring interface is an RJ45 connector again, which has separate transmit and receive lines. Each connection to the switch has only one PC on it and is a single collision domain. Therefore, collisions can’t really occur and a 10Mb/s switch has 10Mb/s each way, 20 Mb/s in total available bandwidth per node.
 

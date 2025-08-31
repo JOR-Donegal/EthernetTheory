@@ -8,7 +8,7 @@ The physical design of a modern enterprise network is all about making sure we h
 
 A detailed _physical diagram_ will show which ports are used and what communications medium (e.g. 1Gb/s CAT6 or OM3 MMF).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A physical LAN is difficult to reverse engineer using pings or other standard enumeration tools. Switches are (mostly) transparent to us.
 

@@ -10,7 +10,7 @@ We see the logical LAN as an IP packet would see it. We know;
 
 Its gateway address. There may be more than one router but we need a clear indication of the gateway IP.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the diagram, router 12 uses the last octet .12 in every subnet. This is typical, however, many network designers always put their routers on .1 or .254.  If there is a consistent pattern, all are valid.
 

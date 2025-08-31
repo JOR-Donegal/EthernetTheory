@@ -10,7 +10,7 @@ Just to keep things completely confusing, Cisco calls a connection where VLANs a
 
 Completely confusing!
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 VLANs can be static, assigning switch ports to a VLAN. This is the most typical configuration we see. However, VLANs assignment can be automatic;
 

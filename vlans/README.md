@@ -2,7 +2,7 @@
 
 In the early 1990s our networks were single segments of Ethernet, wired with coaxial cable. Users with the same needs were (hopefully!) located adjacent to each other. For example, we could run an Ethernet network through the payroll department, locating their server and printer on the same LAN. Somewhere else, marketing people could have their LAN, with their own servers and printers.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 These simple LAN designs were functional and we ended up with a guiding rule as to how to divide them. _We grouped users into a LAN if they had similar requirements for access to applications, services and information at a similar security level_. This remains our rationale for separating users even to this day.
 
